@@ -1,0 +1,10 @@
+{
+  "name": "AgriLens",
+  "description": "AgriLens Eco: Hybrid Edge-to-Cloud AI Agritech & EPCCD Punjab Anti-Smog Platform. AgriLens Edge Vision Plant ID, Gemini Vision, and Zero-Burn Residue Management.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
