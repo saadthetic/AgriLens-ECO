@@ -1,7 +1,7 @@
 # AgriLens Eco: Hybrid Edge-to-Cloud AI Agritech & Anti-Smog Platform
-> **Google Cloud AI Builder Cup 2026** | Sustainability & Social Impact Track  
-> Aligned with the **Environment Protection & Climate Change Department (EPCCD), Government of Punjab**  
-> Developed by **Saad Ullah & Zunaira Aslam (Team AgriLens Eco Warriors)**
+> **Sustainability & Social Impact Track**  
+> Aligned with the **Environment Protection & Climate Change Department (EP&CCD), Government of Punjab**  
+> Developed by **Zunaira & Saad (Team AgriLens Eco Warriors)**
 
 AgriLens Eco is an enterprise-grade, dual-tier **Hybrid Edge-to-Cloud Agricultural Intelligence Platform** built specifically for Pakistani smallholder farmers and climate resilience. By bridging hardware-accelerated on-device neural edge computing with Google Gemini 3 Flash multimodal cloud intelligence, AgriLens Eco empowers farmers to diagnose crop diseases, identify plants, check live mandi wholesale prices, and eliminate crop residue stubble burning—even in remote fields with zero internet connectivity.
 
@@ -220,7 +220,7 @@ npm start
 
 ---
 
-## 🏆 Google AI Builder Cup Highlights
+## 🏆 Highlights
 
 - **Edge-to-Cloud Hybrid Intelligence:** On-device TFLite edge models for zero-connectivity rural fields fused with Google Gemini 3 Flash multimodal cloud reasoning.
 - **Environmental Impact (EPCCD Anti-Smog):** Actionable residue management alternatives (Happy Seeder, Super Seeder, PUSA bio-decomposers) to eliminate Punjab's stubble burning crisis.
